@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @phillipshaong
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Cloud Technologies
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/phillipsng/)
